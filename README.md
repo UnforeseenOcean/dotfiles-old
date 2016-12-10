@@ -3,6 +3,6 @@
 These are my current dotfiles for my setup. May be incomplete or configured improperly while I'm learning.
 
 # fakebusy
-fakebusy.png
+![fake busy](https://raw.githubusercontent.com/Doctah/dotfiles/master/fakebusy.png)
 # clean
-clean.jpg
+![clean](https://raw.githubusercontent.com/Doctah/dotfiles/master/clean.jpg)
