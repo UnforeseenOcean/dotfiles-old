@@ -1,0 +1,1 @@
+rofi -show run -lines 3 -eh 2 -opacity "85" -bw 0 -color-window "#2f343f, #002b36, #000000" -color-normal "#2f343f, #676e7d, #2f343f, #676e7d, #f3f4f5" -color-active "#2f343f, #676e7d, #2f343f, #676e7d, #2f343f" -color-urgent "#2f343f, #ff3935, #2f343f, #e53935, #f3f4f5"
